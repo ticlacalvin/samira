@@ -1,6 +1,6 @@
 #!/bin/bash
 
-bucket_name=('dev2022')
+bucket_name=('dev2022gx')
 
 #for bucketname in "$bucket_name"
 for bucketname in ${bucket_name[*]}
